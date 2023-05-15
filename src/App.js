@@ -4,7 +4,7 @@ import './App.css';
 const Device = ({name}) => {
   return(
     
-    <p>{name} </p>
+    <p>{name}</p>
     
   )
 }
